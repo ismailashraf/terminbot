@@ -2,8 +2,8 @@ import os
 import requests
 
 def send_telegram_chat(msg):
-    telegram_bot_secret = os.getenv("7825131855:AAFkSIBxd_WASJA_qOzIVZoSK2SwEjmIcjg")
-    telegram_chat_id = os.getenv("1826605887")
+    telegram_bot_secret = os.getenv("TELEGRAM_BOT_SECRET")
+    telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
     
     # Ensure the secrets are fetched correctly
     if not telegram_bot_secret or not telegram_chat_id:
