@@ -1,9 +1,9 @@
 personal_info = {
     'sex': 'm', 
-    'vorname': 'vorname',
-    'nachname': 'nachname',
-    'email': 'email',
-    'emailCheck': 'email',
+    'vorname': 'ibad',
+    'nachname': 'hussain',
+    'email': 'shanisol99@gamil.com',
+    'emailCheck': 'shanisol99@gamil.com',
     'geburtsdatumDay': '1',
     'geburtsdatumMonth': '1',
     'geburtsdatumYear': '2000',
